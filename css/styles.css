@@ -1,0 +1,148 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #044747;
+}
+
+h1 {
+  font-size: 6rem;
+  font-family: 'Sacramento', cursive;
+  margin-top: 120px;
+  margin-bottom: 0;
+  color: #66BFBF;
+}
+
+h2 {
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.Sub {
+  font-size: 2.5rem;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 0;
+  color: #66BFBF;
+}
+
+.top-container {
+  background-color: #edfffa;
+  position: relative;
+  padding-top: 100px;
+  line-height: 1.5 ;
+}
+
+.profile-img {
+  border-radius: 100%;
+  height: 200px;
+}
+
+.vis {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 80px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.footer-link {
+  font-family: 'Montserrat', sans-serif;
+  color: #0b959a;
+  padding: 0 30px 0 30px;
+  text-decoration: none;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+.chill-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.code-img {
+  width: 25%;
+  border-radius: 100%;
+  float: right;
+  margin-left: 30px;
+}
+
+.profile {
+  width: 40%;
+  margin: 100px auto;
+  line-height: 1.6;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: lightgrey;
+  border-width: 7px;
+  width:4%;
+}
+
+.skills {
+  margin: 100px auto;
+}
+
+.contact-me {
+  width: 50%;
+  margin: 100px auto;
+  line-height: 1.6;
+}
+
+.button {
+  background-color: #009e9e;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+  border-radius: 12px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.button:hover {
+  opacity: 1;
+}
+
+.bottom-container {
+  background-color: #6fc1c1;
+  padding-top: 50px;
+
+}
+
+.footer {
+  color: white;
+  font-size: 0.9rem;
+  padding-bottom: 70px;
+  margin-bottom: 0;
+  margin-top: 40px;
+}
